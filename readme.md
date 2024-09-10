@@ -48,3 +48,12 @@ Passo 1
 
 Passo 1
 ![alt text](/docs/Containers.png)
+
+- WEB Razor
+
+Passo 1
+![alt text](/docs/web.png)
+
+Passo 2
+![alt text](/docs/webrazor2.png)
+
